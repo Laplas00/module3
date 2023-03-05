@@ -1,0 +1,4 @@
+python-magic==0.4.27
+
+# it's better to install python magic with brew - 'brew install libmagic'
+

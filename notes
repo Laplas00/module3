@@ -1,0 +1,20 @@
+i need to write a programm to sort files.
+
+but what exactly i need ?
+
+first
+    i need to get the directory, which i be work for
+
+next 
+    i need to check amount of directories in this folder
+
+    for every folder i should make thread and use the sort function
+
+
+
+for my subfoler function
+
+i need to check, if file parent is SORT_DIR, then i skip this file. no
+
+if this files in folders.ext and 
+    
